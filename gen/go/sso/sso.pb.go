@@ -82,7 +82,7 @@ type RegisterResponse struct {
 
 	UserId []byte `protobuf:"bytes,1,opt,name=user_id,json=userId,proto3" json:"user_id,omitempty"`
 }
-
+// hi
 func (x *RegisterResponse) Reset() {
 	*x = RegisterResponse{}
 	if protoimpl.UnsafeEnabled {

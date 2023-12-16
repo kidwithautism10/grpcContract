@@ -13,7 +13,7 @@ import (
 	status "google.golang.org/grpc/status"
 )
 
-// 1
+// 1 hh
 // This is a compile-time assertion to ensure that this generated file
 // is compatible with the grpc package it is being compiled against.
 // Requires gRPC-Go v1.32.0 or later.
